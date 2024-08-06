@@ -14,7 +14,7 @@ Duration: JULY to AUGEST 2024 <br/>
 
 <h1>PASSWORD STRENGTH CHECKER <h1/>
 ======================================================
-<h2>PASSWORD STRENGTH CHECKER </h2></br>
+
 ======================================================
 
   <h3> 1. Description:
