@@ -14,10 +14,10 @@ Duration: JULY to AUGEST 2024 <br/>
 
 <h1>PASSWORD STRENGTH CHECKER <h1/>
 ======================================================
-PASSWORD STRENGTH CHECKER
+<h2>PASSWORD STRENGTH CHECKER </h2></br>
 ======================================================
 
-1. Description:
+  <h3> 1. Description:
    This program is designed to evaluate the strength of passwords based on certain criteria.
 
 2. Features:
@@ -38,6 +38,7 @@ PASSWORD STRENGTH CHECKER
 6. How to Run:
    - Open a terminal or command prompt.
    - Navigate to the directory containing the script.
-   - Run the script using: python password_strength_checker.py
+   - Run the script using: python password_strength_checker.py </h3>
+   
 
 
